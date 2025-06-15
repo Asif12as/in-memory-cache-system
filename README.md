@@ -9,7 +9,10 @@ This project implements a thread-safe in-memory cache system with support for co
 - **TTL (Time-To-Live) support**: Entries can expire after a specified time
 - **Background cleanup**: Periodically removes expired entries
 - **Performance statistics**: Tracks hits, misses, evictions, and more
-
+## Console..
+![Console1](console_1.JPG)
+![Console1](console_2.JPG)
+![Console1](console_3.JPG)
 ## Dependencies
 
 This project uses only Python standard libraries:
